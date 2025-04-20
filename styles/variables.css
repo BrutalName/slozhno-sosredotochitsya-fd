@@ -2,3 +2,16 @@
   Переменные для вашего проекта
   и их переопределение под различные устройства
 */
+
+:root {
+  --h2-collor: var(--theme-h2-collor, #FF0070);
+  --h3-collor: var(--theme-h3-collor, #000028);
+  --tx-collor: var(--theme-tx-collor, #F1B2CE);
+  --text-decor-bg-color: var(--theme-text-decor-bg-color, #FF0070);
+  --text-decor-tx-color: var(--theme-text-decor-tx-color, #000028);
+  --title-color: var(--theme-title-color, #DB00FF);
+  --decor-color: var(--theme-decor-color, #FF0070);
+  --button-color: var(--theme-button-color, #FF0070);
+  --button-color-hover: var(--theme-button-color-hover, #FF007066);
+  --text-shadow-color: var(--theme-text-shadow-color, #FF0070);
+}
