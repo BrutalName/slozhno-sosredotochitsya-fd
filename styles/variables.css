@@ -4,8 +4,8 @@
 */
 
 :root {
-  --h2-collor: var(--theme-h2-collor, #FF0070);
-  --h3-collor: var(--theme-h3-collor, #000028);
+  --section-title-collor: var(--theme-section-title-collor, #FF0070);
+  --content-title-collor: var(--theme-content-title-collor, #000028);
   --tx-collor: var(--theme-tx-collor, #F1B2CE);
   --text-decor-bg-color: var(--theme-text-decor-bg-color, #FF0070);
   --text-decor-tx-color: var(--theme-text-decor-tx-color, #000028);
